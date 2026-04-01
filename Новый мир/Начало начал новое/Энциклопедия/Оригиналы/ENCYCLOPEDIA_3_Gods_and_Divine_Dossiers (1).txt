@@ -1,0 +1,283 @@
+WORLD LORE ENCYCLOPEDIA — PRE-EARTHFALL (PF2)
+VOLUME III: GODS + DIVINE DOSSIERS (NO MAPS)
+Version: 2026-02-21
+
+====================================================================
+HOW TO READ THIS VOLUME
+====================================================================
+Each deity entry includes:
+- ROLE (what reality function they stabilize)
+- ORIGIN (top-down seat vs bottom-up emergence)
+- METAPHYSICS (how they feed on anima; what they can/can’t do)
+- PROXIES (how they act without “coming down personally”)
+- RELATIONSHIPS (front interactions)
+- CULT TONES (how worship feels)
+- GM HOOKS (campaign use)
+
+Remember:
+[CANON ✅] Spark/anima conservation: gods cannot create infinite power.
+They are engines of flow, not printers of existence.
+
+====================================================================
+A) COSMIC-LEVEL FORCES
+====================================================================
+
+1) AOS — THE EXPERIMENTER
+ROLE: Origin of Spark; designer of world-iterations.
+ORIGIN: primordial creator outside local pantheon politics.
+METAPHYSICS: rarely acts directly; intervention risks destabilizing the experiment.
+PROXIES: Jhergal, occasional “archival artifacts” from other worlds.
+RELATIONSHIPS: opposed by Thanatos; protected by Jhergal protocol.
+CULT TONE: philosophy, research, humility before unknown laws.
+GM HOOKS: an artifact from a failed world breaks local causality; a cult tries to “rewrite” Spark.
+
+2) JHERGAL — PROTOCOL ARCHIVE
+ROLE: Stabilize causality and procedure; keep records of reality.
+ORIGIN: first Spark-bearer; Aos’s prime creation.
+METAPHYSICS: power expressed as rules/records, not emotional miracles.
+PROXIES: Ions (rare), archivist orders, seal-keepers.
+CULT TONE: austere; scribes, judges, notaries; taboo against falsifying records.
+GM HOOKS: a stolen protocol tablet lets Thanat edit a contract of reality.
+
+3) THANATOS / THANAT — ENTROPY
+ROLE: Dissolution; turning structure to noise.
+ORIGIN: cosmic sibling force; Thanat is avatar inside world.
+METAPHYSICS: rarely “creates.” He accelerates collapse by exploiting existing cracks.
+PROXIES: inevitability sects, saboteurs, corrupted seers, disaster-cults.
+CULT TONE: quiet cynicism; “meaning is a lie; end is honest.”
+GM HOOKS: a peace treaty fails for no clear reason; later PCs find a single altered clause.
+
+4) ASTRA / BOMBADIL (OPTIONAL TOOL)
+ROLE: Spectator chaos; narrative wildcard.
+ORIGIN: sibling who enjoys the show; Bombadil avatar.
+METAPHYSICS: small pushes, coincidence, irony.
+PROXIES: trickster cults, wandering “luck events.”
+CULT TONE: laughter that can kill.
+GM HOOKS: Astra rescues PCs… but now they owe a “joke” to the world.
+
+====================================================================
+B) SYSTEM ADMINISTRATION AND PLANAR ARCHITECTURE
+====================================================================
+
+5) PHARASMA — ADMINISTRATOR OF SPARK/CYCLE
+ROLE: Continuity of souls; stable traffic; prevent systemic collapse.
+ORIGIN: assigned administrator by Aos/Jhergal framework.
+METAPHYSICS: can direct/ignite/assign Spark but cannot multiply infinite Spark.
+PROXIES: funerary orders; cycle judges; seam engineers (Jotunborn).
+CULT TONE: solemn practicality; taboo-driven; “don’t break the cycle.”
+GM HOOKS: Pharasma’s agent demands PCs close a seam even if it kills a town.
+
+6) IHYS — THE FREEDOM ARCHITECT (DEAD, BUT RESIDUE LIVES)
+ROLE: Freedom as meaning of Spark.
+ORIGIN: created by Pharasma as architect; later destroyed by Asmodeus.
+METAPHYSICS: no active church; residue persists as aboleth blessing.
+PROXIES: aboleths; secret emancipator cults; freedom philosophies.
+CULT TONE: forbidden idealism; “choice above safety.”
+GM HOOKS: Ihysite rebels want to reignite freedom in elementals—risking new wars.
+
+7) ASMODEUS — ORDER AND CONTRACT
+ROLE: Prevent collapse by controlling will through law.
+ORIGIN: created architect; becomes coup victor and systemic tyrant.
+METAPHYSICS: feeds on contracts, obedience, and the divine tithe of lawful worship.
+PROXIES: priests of law; seal bureaucracies; infernal contractors; Thassilon institutions.
+CULT TONE: intimidating efficiency; salvation by paperwork.
+GM HOOKS: Asmodeus offers to stop a drought—if a city signs away a generation’s freedom.
+
+8) ABADAR — MEASURE, CITY, EXCHANGE
+ROLE: Standardize civilization; make contracts stable and productive.
+ORIGIN: administrative seat in pantheon formation.
+METAPHYSICS: feeds on exchange, trade trust, lawful infrastructure.
+PROXIES: banks, guilds, magistrates, engineers.
+CULT TONE: practical prosperity; “a bridge is a prayer.”
+GM HOOKS: Abadar-backed merchants try to sign a “river rights” treaty with Gozreh druids.
+
+9) DESNA — DREAMS, ETHER, PATH
+ROLE: connective tissue between planes; dreams as navigation.
+ORIGIN: seat emerging early; not required to be good at first.
+METAPHYSICS: feeds on hope, travel, dream-rituals; influences coincidences.
+PROXIES: dream seers, travelers, fey proto-ecology.
+CULT TONE: wanderlust, prophecy, gentle danger.
+GM HOOKS: Desna warns PCs via shared dream; ignoring it strengthens Thanat’s inevitability.
+
+====================================================================
+C) MATERIAL PLANE SHAPERS
+====================================================================
+
+10) ROVAGUG — CREATOR TURNED SABOTEUR
+ROLE: Material form engine; later: destabilizer through neglect.
+ORIGIN: major creator force in pantheon distribution.
+METAPHYSICS: feeds on primal creation drive and later on rage/resentment flows.
+PROXIES: monstrous cults; “first hunt” traditions; sabotage spirits; apex beasts.
+CULT TONE: awe and dread; not always evil; “the world is teeth.”
+GM HOOKS: Rovagug cult offers to close a seam by feeding it a city.
+
+11) SHELYN — HARMONY OF FORM (CREATION OF ROVAGUG)
+ROLE: culture and beauty as stabilizing structure.
+ORIGIN: created by Rovagug as assistant.
+METAPHYSICS: feeds on art discipline; can stabilize minds and cities.
+PROXIES: architects, artisans, choirs, temple-workshops.
+CULT TONE: demanding эстетика; “beauty is law.”
+GM HOOKS: Shelyn’s order wants to rebuild a ruined city—but imposes harsh caste rules.
+
+12) DOU-BRAL — DEPTH AND SHADOW (CREATION OF ROVAGUG)
+ROLE: hidden truth; shadow as necessary half.
+ORIGIN: created by Rovagug as assistant.
+METAPHYSICS: feeds on confession, taboo knowledge, grief, endurance.
+PROXIES: confessors, shadow-judges, forbidden archivists.
+CULT TONE: quiet intensity; “look at what you hide.”
+GM HOOKS: Dou-Bral cult offers to reveal a Thanat agent if PCs sacrifice reputation.
+
+13) SARANRAE — MERCY AND RESCUE
+ROLE: healing, rescue, light against despair.
+ORIGIN: pantheon seat; grows through mortal suffering and compassion flows.
+METAPHYSICS: feeds on mercy and sacrifice; conflicts with nature cruelty post-Gozreh.
+PROXIES: healers, hospitallers, dawn knights.
+CULT TONE: warmth with steel; mercy that demands courage.
+GM HOOKS: Sarenrae priests evacuate a city; Asmodeus wants to keep citizens as “contract property.”
+
+14) TORAG — THE HOLD AND THE FORGE (ELEVATED HERO POSSIBILITY)
+ROLE: defend craft and community; hold stability.
+ORIGIN: can be elevated greatest dwarf (non-primordial).
+METAPHYSICS: feeds on oaths, craft, defense labor.
+PROXIES: smith guilds, hold guardians, oath rings.
+CULT TONE: stern protection; forgiveness is expensive.
+GM HOOKS: Torag’s faithful demand punishment for duergar—risking civil war.
+
+====================================================================
+D) DRACONIC SEAT
+====================================================================
+
+15) APSU — GUIDING PACT
+ROLE: regulate dragon violence; keep pact.
+ORIGIN: elevated from dragons into divine seat.
+METAPHYSICS: feeds on oathkeeping, restraint, protection.
+PROXIES: White Cloaks (救援 orders), pact-kobolds.
+CULT TONE: dignified restraint; “strength without slaughter.”
+GM HOOKS: White Cloaks oppose PCs’ heist methods; later become allies if PCs spare civilians.
+
+16) DAHAK — CATASTROPHE FIRE
+ROLE: radical purge; violent correction.
+ORIGIN: dragon god via elevated power; exploited by Thanat.
+METAPHYSICS: feeds on fear, destruction, supremacy myths.
+PROXIES: Dahakian kobold cults, drake lieutenants.
+CULT TONE: terror as sermon.
+GM HOOKS: Dahak’s lieutenants can be defeated; Dahak himself reshapes the battlefield as disaster.
+
+====================================================================
+E) GOZREH AND BOTTOM-UP DIVINITY
+====================================================================
+
+17) GOZREH — UNIFIED NATURE SPIRIT (PHARASMA’S CREATION)
+ROLE: make nature an actor; regulate extraction by price.
+ORIGIN: created/assembled by Pharasma from nature flow; a “seat” for ecology.
+METAPHYSICS: feeds on primal cycles, storms, growth, fear of wilderness.
+PROXIES: druids, awakened nodes, storm-spirits, animal messengers.
+CULT TONE: awe + transactional respect; “take nothing for free.”
+GM HOOKS: Gozreh spirit demands compensation; Asmodeus tries to legislate storms.
+
+18) GORUM — WAR GOD EMERGENCE (BOTTOM-UP)
+ROLE: war as endurance; the will to lift the sword when strength is gone.
+ORIGIN: bottom-up god born from mass prayer during Great War.
+METAPHYSICS: feeds on battle resolve, soldier fear overcome, communal oath.
+PROXIES: war shrines, champions, battlefield spirits; rapid uplift of war-peoples.
+CULT TONE: direct, honest, brutal hope.
+GM HOOKS: Gorum’s priests offer courage rituals; but they also “tax” peace (peace starves them).
+
+19) CALISTRIA — MASK, DESIRE, REVENGE (BOTTOM-UP, FROM A PEOPLE)
+ROLE: personal freedom against shame politics; vengeance as selfhood.
+ORIGIN: likely bottom-up emergence inside elven society as anti-stewardship virus.
+METAPHYSICS: feeds on humiliation turned into agency; pleasure as rebellion; revenge as narrative correction.
+PROXIES: salons, spies, duelists, courtesan-priesthood.
+CULT TONE: silk over blade.
+GM HOOKS: Calistrian agent offers PCs a social assassination; a scandal collapses an elf house.
+
+20) LAMASHTU — MONSTER-MOTHER (BOTTOM-UP AMONG REJECTS)
+ROLE: patron of discarded monstrous lineages abandoned by gods.
+ORIGIN: bottom-up: when Rovagug “forgets” his early children, they create idols; Lamashtu crystallizes.
+METAPHYSICS: feeds on fear, birth in pain, rejection, survival of the deformed.
+PROXIES: midwives of monsters, beast cults, corrupt shamans.
+CULT TONE: terrible nurture; “you are not wrong, you are hungry.”
+GM HOOKS: Lamashtu cult offers refuge to persecuted mutants—at the cost of breeding new horrors.
+
+21) ERI ASTIL (ERASTIL) — LAST HEARTH (BOTTOM-UP LATE)
+ROLE: family, the last fence, survival community; emerges near Earthfall.
+ORIGIN: bottom-up among peasants and frontier households under war + storm.
+METAPHYSICS: feeds on homestead loyalty and defense.
+PROXIES: hunters, village elders, oath circles.
+CULT TONE: harsh kindness; “protect your own.”
+GM HOOKS: Erastil faith may clash with Sarenrae mercy when refugees arrive.
+
+22) NETHYS — MAGIC ASCENDED (THASSILONIC POLE)
+ROLE: arcane truth; magic as divinity.
+ORIGIN: mortal rise in Thassilon, fueled by obsessive arcane flow.
+METAPHYSICS: feeds on spellcasting intensity; risks self-fracture.
+PROXIES: mage cults, spell libraries, living rituals.
+CULT TONE: ecstatic danger.
+GM HOOKS: Nethys cult wants to crack a seam to learn its formula.
+
+23) ARODEN — HUMAN HERO MYTH (PROTO-STAGE)
+ROLE: legitimacy of human destiny; “we can stand without gods.”
+ORIGIN: emerging hero-cult in Ash Alliance border legions; full ascension later.
+METAPHYSICS: feeds on civic pride and imperial restoration longing.
+PROXIES: legion saints, standards, oath rings.
+CULT TONE: disciplined hope; “we build.”
+GM HOOKS: Aroden cult could unite humans—or become the seed of tyranny.
+
+24) NORGORBER — STARSTONE LATER (DO NOT CHANGE)
+[CANON ✅] Keep canonical: mortal ascension via Starstone later.
+In this era: only rumors, secret societies, proto-thieves.
+
+END OF VOLUME III
+
+
+
+====================================================================
+APPENDIX H — DIVINE POWER LIMITATIONS (TECHNICAL)
+====================================================================
+
+No god may:
+• Generate infinite Spark.
+• Act directly in Material without proxy cost.
+• Fully override free will without destabilizing planar membranes.
+
+Divine Manifestation Costs:
+• Avatar projection drains stored anima.
+• Large miracles create temporary weak seams.
+• Mass smiting accelerates entropy infiltration risk.
+
+====================================================================
+APPENDIX I — INTER-GOD RELATION MATRIX
+====================================================================
+
+Pharasma vs Asmodeus: Cycle vs Control.
+Asmodeus vs Gozreh: Codification vs Wild Law.
+Sarenrae vs Gozreh: Mercy vs Harsh Nature.
+Torag vs Rovagug: Fortification vs Neglect.
+Apsu vs Dahak: Restraint vs Catastrophe.
+Calistria vs Elven Stewardship: Revenge vs Order.
+Gorum vs All: War feeds but does not choose sides.
+
+====================================================================
+APPENDIX J — GREAT WAR ESCALATION MODEL
+====================================================================
+
+Phase 1: Ideological sanctions (trade blockades, magical embargoes).
+Phase 2: Proxy conflicts (orc legions, hobgoblin campaigns).
+Phase 3: Node seizures.
+Phase 4: Dragon interventions.
+Phase 5: Direct divine manifestations in limited capacity.
+Phase 6: Entropy amplification — seams widen.
+Phase 7: Earthfall threshold event.
+
+====================================================================
+APPENDIX K — FUTURE FORESHADOWS
+====================================================================
+
+• Nethys ascension in Thassilon.
+• Aroden hero myth consolidation.
+• Deep Hive exponential bloom post-cataclysm.
+• Goloma migration to Arcadia after continental fracture.
+• Kashrishi near-extinction by prophecy era.
+
+====================================================================
+END OF EXPANDED APPENDIX — VOLUME III

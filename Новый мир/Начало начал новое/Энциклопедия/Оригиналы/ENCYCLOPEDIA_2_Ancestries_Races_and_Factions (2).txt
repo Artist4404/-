@@ -1,0 +1,343 @@
+WORLD LORE ENCYCLOPEDIA — PRE-EARTHFALL (PF2)
+VOLUME II: ANCESTRIES/RACES + INTERNAL FACTIONS (NO MAPS)
+Version: 2026-02-21
+
+====================================================================
+HOW TO READ THIS VOLUME
+====================================================================
+For each ancestry/race:
+- ORIGIN: what base it comes from (created / uplifted / evolved / cross-planar)
+- METAPHYSICS: how anima/Spark expresses in them
+- CULTURE: the “feel” and social mechanisms
+- FACTIONS: internal splits you can use in play
+- CONFLICT AXES: what they fight about
+- GM HOOKS: immediate adventure fuel
+
+Note: We keep PF2 compatibility but we are not forced to include every PF2 ancestry
+as a major civilization. Some exist as tiny remnants or anomalies.
+
+====================================================================
+A) CORE PEOPLES OF THE SUPERCONTINENT AGE
+====================================================================
+
+1) HUMANS [CANON ✅]
+ORIGIN: fast-adapting Spark-bearers; boosted by aboleth mentorship early on.
+METAPHYSICS: highly “colorable” active anima; belief shifts quickly; huge fuel for bottom-up gods.
+CULTURE: senates, legions, ports, guilds; rapid religious invention; heroic myth production.
+FACTIONS:
+- Ash Alliance Patriots (confederate pragmatists)
+- Restorationists (want a new Azlant empire)
+- Thassilonian Seal-Bureaucrats
+- Thassilonian Rune-Lords (autonomy)
+- Barbarians of the Margins (anti-city)
+- Dragon-Captive Communities (trauma networks)
+CONFLICT AXES: unity vs fragmentation; freedom vs contracts; survival vs ideals.
+GM HOOKS: border legions worship proto-Aroden; a seal-regime controls water rights; rebels build a “free port.”
+
+2) DWARVES [CANON ✅]
+ORIGIN: deep-earth humanoids; hold-builders; seam survivors.
+METAPHYSICS: anima expresses as “oath-weight”; contracts have literal spiritual mass.
+CULTURE: precedent law; Record of Debts/Grudges; gatekeeping holds; craft as religion.
+FACTIONS:
+- Hold Council Isolationists
+- Forge-Colony Expansionists
+- Reckoners (anti-duergar purists)
+- Debt-Priests (legalists who treat debts as sacred)
+- Duergar Exiles (enemy or tragic allies)
+CONFLICT AXES: honor vs survival compromise; isolation vs trade; vengeance vs repair.
+GM HOOKS: a human needs hold entry; dwarves demand a century-old debt; a duergar offers seam knowledge.
+
+3) ELVES [CANON ✅]
+ORIGIN: Sarenrae-linked creation; surface cultivation architects.
+METAPHYSICS: stable long-life anima; strong “status aura”; slow ideological drift but deep arrogance.
+CULTURE: authoritarian stewardship; status trials; shame politics; “we know better.”
+FACTIONS:
+- High Stewards (strict caretakers)
+- Gardens of Correction (soft assimilation)
+- Whispering Groves (spirit listeners; dissent)
+- Calistrian Cells (pleasure+revenge underground)
+CONFLICT AXES: stewardship vs domination; unity vs house rivalry; mercy vs control.
+GM HOOKS: elf reforms starve a village; a house sabotages another for node control; Calistrian youth stage a scandal.
+
+4) ABOLETHS [CANON ✅]
+ORIGIN: ancient workforce line; freed by Ihys.
+METAPHYSICS: grey anima + divine obscurity; resistant to propaganda; hard to “read.”
+CULTURE: archivists of existence; continuity over individuals; slow time horizons; secrecy as survival.
+FACTIONS:
+- Keepers of the Current (non-intervention)
+- Interveners (shape events)
+- Quiet Students (vulnerable to Thanat)
+- Ocean Wardens (seal-keepers)
+CONFLICT AXES: preserve vs intervene; secrecy vs alliance; survival vs justice.
+GM HOOKS: aboleths offer knowledge at cruel price; Azarketi demand confession; Intervener plots coup.
+
+5) DRAGONS [CANON ✅]
+ORIGIN: apex creations of Rovagug; ecological crowns.
+METAPHYSICS: huge anima reservoirs; mythic “presence” that warps local belief.
+CULTURE: nest-right, hoard-law, dominance; some treat mortals as cattle, others as clients.
+FACTIONS:
+- Apsuists (pact loyalists)
+- Dahakians (radicals)
+- Neutral Ancients (withdrawn hoarders)
+CONFLICT AXES: pact vs supremacy; survival vs coexistence; pride vs pragmatism.
+GM HOOKS: Apsuist dragon hires mortals; Dahakian cult burns ports; neutral ancient trades reality-artefacts for silence.
+
+6) KOBOLDS [CANON ✅]
+ORIGIN: dragon-aligned “hands” of nests; evolved into full culture.
+METAPHYSICS: oath-chains; devotion converts into communal will-magic (trapcraft + ritual).
+CULTURE: engineering, logistics, tunnels, traps, cult enforcement.
+FACTIONS:
+- Nest Engineers (builders)
+- Oath Priests (cult administrators)
+- Free-Kobolds (want autonomy from dragons)
+CONFLICT AXES: service vs independence; survival vs ambition.
+GM HOOKS: kobolds tunnel under a rune hub; kobold free-clan offers alliance against Dahak.
+
+====================================================================
+B) OCEANIC BLOCK
+====================================================================
+
+7) AZARKETI [CANON ✅]
+ORIGIN: aboleth-faithful humans reshaped for ocean life.
+METAPHYSICS: memory-songs hold identity; trauma colors anima deep and slow.
+CULTURE: coral memory-houses; song-law; diaspora identity.
+FACTIONS:
+- Surface-Returners (want land back)
+- Deep Loyalists (still trust aboleths)
+- Vengeance Choirs (anti-aboleth radicals)
+CONFLICT AXES: loyalty vs betrayal; memory vs survival.
+GM HOOKS: Azarketi discover proof of silence; attempt to seize an aboleth archive.
+
+8) MERFOLK [CANON ✅]
+ORIGIN: created/uplifted by aboleths as intermediaries.
+METAPHYSICS: ritual tide-binding; long-lived continuity.
+CULTURE: reef dynasties; tide-singers; seal guardians.
+FACTIONS:
+- Archive Loyalists
+- Reef Autonomists
+CONFLICT AXES: preservation vs autonomy.
+GM HOOKS: merfolk ask PCs to restore a cracked seal; reef dynasty sells secrets to surface.
+
+9) ATAMARU [CANON ✅]
+ORIGIN: militarized deep-sea power (project lineage).
+METAPHYSICS: discipline-coded anima; “pressure rites.”
+CULTURE: legion discipline; conquest logic; fortress trenches.
+FACTIONS:
+- Legion Command
+- Hunter Clans
+- Entropy Sympathizers (Thanat seep)
+CONFLICT AXES: security vs imperialism; discipline vs corruption.
+GM HOOKS: Atamaru seize seam station; secret Thanat cult spreads “inevitability.”
+
+====================================================================
+C) UNDERWORLD + KNOWLEDGE PEOPLES
+====================================================================
+
+10) SHISK [CANON ✅]
+ORIGIN: knowledge-keepers; can be a refugee mage lineage from Thassilon that hides with dwarves.
+METAPHYSICS: vow-binding; answers as sacred currency.
+CULTURE: monastic archives; “one question” pact.
+FACTIONS:
+- Oathkeepers (strict neutrality)
+- Answer-Merchants (sell knowledge)
+- Prophecy-Binders (dangerously close to reality edits)
+CONFLICT AXES: neutrality vs profit; truth vs stability.
+GM HOOKS: dwarves invoke the One Question; Thassilon tries to kidnap a Shisk master.
+
+11) RATFOLK [CANON ✅]
+ORIGIN: urban resonance awakening of rodents near dense human anima.
+METAPHYSICS: networked community anima; city-rhythm intuition.
+CULTURE: markets, information brokers, scavenger guilds, tunnel diplomacy.
+FACTIONS:
+- Market Councils
+- Tunnel Scouts
+- Plague-Saints (dark cult variant)
+CONFLICT AXES: survival vs recognition; trade vs theft.
+GM HOOKS: ratfolk broker a truce between kobolds and dwarves; tunnel plague threatens a hold.
+
+12) JOTUNBORN (PHARASMA’S BUILDERS) [CANON ✅]
+ORIGIN: Pharasma’s structural engineers after aboleths cease being reliable builders.
+METAPHYSICS: seam-sense; innate ability to “feel” planar pressure.
+CULTURE: professional fatalism; repair rites; minimal politics.
+FACTIONS:
+- Seam-Menders (pure function)
+- Cycle-Loyalists (punish necromancy/seam abuse)
+CONFLICT AXES: intervention vs non-involvement.
+GM HOOKS: a Jotunborn arrives—means reality is cracking; factions race to exploit a seam.
+
+13) KASHRISHI (RARE) [CANON ✅]
+ORIGIN: Abadar-selected dwarf subline meant to help stitch rifts; later abandoned.
+METAPHYSICS: horn-wards; survival tied to seam pressure.
+CULTURE: station clans in high mountains/deep chasms; blind duty; severe rites.
+FACTIONS:
+- Last Stations (holdouts)
+- Wander-Wards (seek help; often rejected)
+CONFLICT AXES: extinction vs isolation; duty vs resentment.
+GM HOOKS: kashrishi ask dwarves for recognition; hunters seek horns as trophies.
+
+14) GOLOMA (RARE) [CANON ✅]
+ORIGIN: isolated jungle people, likely one pre-Earthfall remnant that later sits in Arcadia.
+METAPHYSICS: paranoia hardened into protective rites; “eyes and webs” myths.
+CULTURE: isolation; fear of gods; refuge to fugitives at a price (erasure).
+FACTIONS:
+- Hidden Grove (total isolation)
+- Refuge Brokers (secretly trade shelter)
+CONFLICT AXES: trust vs invisibility.
+GM HOOKS: PCs must negotiate asylum; Goloma demand a memory or name in payment.
+
+====================================================================
+D) NEWLY ADDED: GORUM’S PEOPLES (ORCS, HOBGOBLINS, GOBLINS)
+====================================================================
+
+[CANON ✅] You proposed: Gorum as a bottom-up war god during the Great War,
+and that he may create (or rapidly uplift) peoples as embodiments of war-aspects.
+
+We lock the logic like this to keep conservation law:
+- Gorum does NOT “print matter from nothing.”
+- He concentrates war anima already flowing from the Great War,
+  then uses it to uplift existing humanoid stock or shape new lineages from battlefield residues.
+- These peoples emerge near war-hot zones (battlefields, siege lines, ruined forts, cursed marches).
+
+15) GORUM — WAR-EMERGENCE PEOPLESET OVERVIEW
+Gorum’s “people” are not a unified nation at birth.
+They are storms of culture condensing in different theaters.
+
+A) ORCS — “HONEST WRATH”
+ORIGIN: uplifted from harsh frontier humanoids + battlefield dead-will;
+        war anima crystallizes into bodies built for endurance and direct clash.
+METAPHYSICS: active anima burns hot; oaths are personal; shame is weakness; fear is poison.
+CULTURE: honor in direct combat; brutality without deceit; “face your enemy.”
+FACTIONS:
+- Iron Oath Clans (strict duel law)
+- Red Hunt Bands (predatory raiders)
+- Ash-Singers (ritualists who turn grief into strength)
+CONFLICT AXES: honor vs survival; clan law vs ambition.
+GM HOOKS: an orc clan offers alliance if PCs fight their champion; Ash-Singers guard a battlefield node.
+
+B) HOBGOBLINS — “DISCIPLINE AND EMPIRE”
+ORIGIN: uplifted from regimented human or dwarf mercenary stocks + war logistics anima;
+        shaped into bodies and minds optimized for hierarchy, drill, and strategy.
+METAPHYSICS: anima forms chains: rank = spiritual structure; betrayal cracks the soul.
+CULTURE: legions, banners, supply doctrine; law as weapon; obedience as virtue.
+FACTIONS:
+- Banner-Legions (professional army)
+- Steel Magistrates (law-officers)
+- Shadow Quartermasters (logistics syndicates)
+CONFLICT AXES: order vs cruelty; empire vs autonomy.
+GM HOOKS: hobgoblin quartermasters buy a node’s harvest; a legion offers “protection” that is occupation.
+
+C) GOBLINS — “CUNNING AND ENGINEERING”
+ORIGIN: uplifted from scavenger lineages around siege camps;
+        war anima crystallizes into cleverness, improvisation, and fearless chaos.
+METAPHYSICS: anima flickers; risk addiction; laughter as ward; fear converted into trick.
+CULTURE: trapcraft, sabotage, pyrotechnics, quartermaster tricks; “win dirty, live.”
+FACTIONS:
+- Sappers (siege engineers)
+- Laughing Knives (assassins/prank-warriors)
+- Scrap-Priests (ritual mechanics)
+CONFLICT AXES: chaos vs coordination; survival vs reputation.
+GM HOOKS: goblin sappers sell tunnel plans; goblin prank triggers a diplomatic war.
+
+[GM TOOL ⚙️] Use the three as a war triangle:
+Orcs = frontline shock
+Hobgoblins = campaign machine
+Goblins = chaos logistics and sabotage
+
+====================================================================
+E) DEEP HIVE (REPLACING INSECT ANCESTRIES)
+====================================================================
+
+16) DEEP HIVE [CANON ✅]
+ORIGIN: natural insects near seams; magic accelerates growth and cognition.
+METAPHYSICS: hive mind emerges as a resonance pattern of active anima across colony.
+CULTURE: pheromone law, brood economy, expansion math.
+FACTIONS:
+- Brood Queens (expansionists)
+- Silent Chambers (stealth colonies)
+- Seambiters (planar-eaters)
+CONFLICT AXES: assimilation vs annihilation; stealth vs swarm.
+GM HOOKS: pre-Earthfall colonies are small; after Earthfall they bloom when everyone is distracted.
+
+====================================================================
+F) QUICK INDEX (WHO EXISTS WHEN?)
+====================================================================
+- Present and relevant pre-Earthfall: Humans, Dwarves, Elves, Aboleths, Dragons, Kobolds, Oceanic peoples, Shisk, Ratfolk, Jotunborn, Kashrishi, Goloma.
+- Emerging during Great War: Gorum; Orcs/Hobgoblins/Goblins rapidly appear.
+- Mostly post-Earthfall escalation: Deep Hive.
+- Anomalies only: automatons/flashwarps/popets.
+
+END OF VOLUME II
+
+
+
+====================================================================
+APPENDIX D — DWARVEN CULTURAL LAYERS (DETAILED)
+====================================================================
+
+Dwarven Naming Conventions:
+• Clan name precedes personal name.
+• Debt titles appended publicly.
+• “Stonebound” indicates life-oath to hold.
+
+Dwarven Education:
+• Children memorize 50 precedents before weapon training.
+• Forge apprenticeship includes legal instruction.
+• Duergar history officially omitted but whispered privately.
+
+Dwarven Emotional Framework:
+• Anger is acceptable.
+• Panic is shameful.
+• Public forgiveness requires ritual stone-cleaving ceremony.
+
+====================================================================
+APPENDIX E — ELVEN SOCIETAL STRUCTURE (DETAILED)
+====================================================================
+
+Elven Status Trials:
+• Public debate judged by three Houses.
+• Aesthetic evaluation of policy presentation.
+• Emotional restraint scored as virtue.
+
+Elven Shame Weaponization:
+• Public laughter used as political assassination.
+• Exile is rare; social irrelevance is preferred punishment.
+
+Elven Architectural Doctrine:
+• Every building must embody philosophical principle.
+• Ugly but efficient dwarven constructions are seen as moral failure.
+
+====================================================================
+APPENDIX F — GORUM’S PEOPLES (ADVANCED DEVELOPMENT)
+====================================================================
+
+Orc Clan Variants:
+• Ironback (defensive specialists)
+• Redfang (aggressive raiders)
+• Stonecaller (battle-chanters)
+
+Hobgoblin City-States:
+• Bannerhold
+• Ironmarch
+• Sealbreak Citadel
+
+Goblin Engineering Schools:
+• Sparkfire Sappers
+• Blackpowder Choir
+• Tunnelwright Guild
+
+====================================================================
+APPENDIX G — OCEANIC WAR CONTINUITY
+====================================================================
+
+Azarketi Memory Collapse Crisis:
+• Generational trauma leads to radical Vengeance Choirs.
+
+Atamaru Expansion Doctrine:
+• “Pressure must move outward or implode.”
+
+Merfolk Ritual Economy:
+• Coral rings mark binding agreements.
+• Breaking a tide-oath triggers social exile.
+
+====================================================================
+END OF EXPANDED APPENDIX — VOLUME II

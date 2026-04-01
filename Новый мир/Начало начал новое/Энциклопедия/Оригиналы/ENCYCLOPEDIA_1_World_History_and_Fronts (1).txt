@@ -1,0 +1,397 @@
+WORLD LORE ENCYCLOPEDIA — PRE-EARTHFALL (PF2)
+VOLUME I: WORLD HISTORY + FRONTS (NO MAPS)
+Version: 2026-02-21
+Language: RU/EN mixed (mostly RU). Designed for import into a new chat.
+
+====================================================================
+READ THIS FIRST: CANON AND STYLE
+====================================================================
+- This file is “project canon so far.” It consolidates everything agreed in chat.
+- It avoids maps by request; geography is described textually.
+- Terms:
+  [CANON ✅] explicitly agreed control point
+  [OPTION 🧩] safe expansion hook (does not break canon)
+  [GM TOOL ⚙️] play/GM practical note
+
+====================================================================
+CANON CONTROL POINTS (REFERENCE)
+====================================================================
+[CANON ✅] Spark (Iskra) and anima do not multiply from nothing (conservation law).
+[CANON ✅] Pharasma can direct/ignite/assign Spark within the project, but cannot generate infinite Spark.
+[CANON ✅] Ihys freed aboleths + elementals → Elemental Wars → planar seams.
+[CANON ✅] Asmodeus defeated Ihys; Ihys’ residue persists as aboleth blessing: grey anima + divine obscurity.
+[CANON ✅] Outer planes exist only in embryo (soul directions exist; stable “landscapes” form later via habitation/imprint).
+[CANON ✅] Rovagug began as a creator of Material forms (not “evil from start”).
+[CANON ✅] Shelyn and Dou-Bral are creations of Rovagug (not primordial).
+[CANON ✅] Dragons apex ecology; Apsu elevated; pact limits violence.
+[CANON ✅] Dahak acts personally as catastrophe; his lieutenants are killable.
+[CANON ✅] Ions are extremely rare (~1–2 per world), intervene only to protect reality rules.
+[CANON ✅] Humans pre-Earthfall have two major powers: Ash Alliance and Thassilon (Thassilon under Asmodeus).
+[CANON ✅] Gozreh is created by Pharasma as unified nature-spirit; strong spirits/nodes form; Great War ignites.
+[CANON ✅] Ocean tragedy: Azarketi nearly perish because aboleths do not warn them of Earthfall; ocean war persists.
+[CANON ✅] Rare peoples: Goloma (isolated), Kashrishi (seam-wardens).
+[CANON ✅] “Insect ancestries” replaced by Deep Hive (evolution+magic), major threat mostly after Earthfall.
+[CANON ✅] Automatons/flashwarps/popets are anomalies, not full civilizations.
+
+====================================================================
+PART I — COSMIC ORIGIN (DETAILED)
+====================================================================
+
+1) AOS — EXPERIMENTER AND MULTI-WORLD ARCHITECT
+Aos is not a moral king. Aos is a scientist of reality.
+His question: “Can conscious life remain stable without collapsing into self-destruction?”
+
+He creates worlds as iterative experiments:
+- altering strictness of causality
+- density of passive anima in matter (“hardness of reality code”)
+- speed at which active anima accumulates in life
+- degrees of freedom for will before society tears apart
+- time smoothness (prophecy stability)
+- soul persistence vs dissolution
+
+Many worlds remain as archives of failure.
+[GM TOOL ⚙️] When you need strange artifacts/abberations/laws, call them “residue from an abandoned Aos experiment.”
+
+2) THE SPARK (ISKRA) — FORMULA OF CHOICE
+The Spark is agency. It turns “reacts” into “decides.”
+It does not grant morality. It grants refusal.
+
+Core Law:
+[CANON ✅] Spark and anima do not appear from nothing.
+All creation is redistribution. All miracles are paid. All new gods are concentration or theft.
+
+3) JHERGAL — FIRST SPARK-BEARER, PROTOCOL ARCHIVIST
+Jhergal is Aos’s first Spark creation.
+He stabilizes reality by:
+- recording causality (archive as structure)
+- building procedures independent of emotion
+- standardizing “humanoid ergonomics” as a universal interface for tools, seals, war, and ritual
+
+This is why many high agents appear humanoid: it’s functional.
+He creates IONS.
+
+4) IONS — RARE SCALPELS OF SYSTEM REPAIR
+[CANON ✅] ~1–2 per world.
+They intervene only when rules of reality are threatened:
+- causality fractures
+- planar collapse
+- entropic pivot points
+
+They do NOT solve politics; they preserve metaphysics.
+[GM TOOL ⚙️] If an Ion appears, the threat is “world structure,” not “throne.”
+
+5) THANATOS / THANAT — ENTROPY WARFARE
+Thanatos is Aos’s brother-force of cessation.
+Thanat is the avatar inside worlds: calm, patient, clever, arrogant.
+He studies the Spark and distorts it into ENTROPY:
+- contracts lose meaning
+- borders leak
+- alliances rot
+- inevitability narratives spread
+Ideal victory: collapse that looks “natural.”
+
+6) ASTRA / BOMBADIL — THIRD-PARTY AUTHOR TOOL
+[OPTION 🧩] Astra enjoys the spectacle; Bombadil is her avatar.
+Use sparingly for coincidence, comic misdirection, or “impossible survivals.”
+
+====================================================================
+PART II — METAPHYSICS (DETAILED)
+====================================================================
+
+7) ANIMA: PASSIVE AND ACTIVE
+Everything has anima.
+Passive anima = structural code of matter (stone, fire, water, metal).
+Active anima = will in living beings.
+
+Active anima “colors” via culture/trauma/belief/war:
+not fixed alignments, but vectors (fear, mercy, ambition, duty).
+
+8) FIVE MAGICS (YOUR MODEL)
+[CANON ✅]
+ARCANE: controls passive anima (the code of matter).
+OCCULT: moves passive anima through active anima; ritual-heavy; personal taboos.
+DIVINE (SACRAL): channel through deity; complexity reduced; some anima tithe feeds god.
+PRIMAL: pact with spirits/nature; arcane-weighted; transforms nature’s lightly-colored anima.
+WILL: disciplines the self; no external control; bodily alchemy of stamina/precision.
+
+9) SPIRITS AND “BOTTOM-UP DIVINITY”
+[CANON ✅] Minds can create spirits and even gods through sustained anima flow.
+Totem → spirit when the pattern becomes stable and responds.
+War age → war god when the mass flow condenses and becomes self-sustaining.
+
+Two divine birth modes:
+- Top-down (assigned seat/role by higher administrators like Pharasma)
+- Bottom-up (egregore made real by mass belief/trauma)
+
+====================================================================
+PART III — EARLY GOLARION: PHARASMA, IHYS, ASMODEUS
+====================================================================
+
+10) PHARASMA — ADMINISTRATOR OF SPARK AND CYCLE
+[CANON ✅] Within Golarion, Pharasma can direct/ignite/assign Spark but cannot create infinite Spark.
+Her philosophy: continuity. A broken cycle is Entropy’s banquet.
+
+11) IHYS AND ASMODEUS — FIRST ARCHITECTS
+They build:
+- Material Plane
+- Elemental Planes
+- proto-outer directions for souls
+
+[CANON ✅] Outer planes are embryonic: souls drift toward order/chaos/mercy/cruelty, but stable landscapes form later via habitation.
+
+12) ABOLETHS AS EARLY WORKFORCE
+[CANON ✅] Aboleths are ancient, partially “unfinished” line:
+either residue from older Aos experiments or imports from abandoned worlds.
+They excel at deep structure work.
+
+13) IHYS’S EMANCIPATION: ABOLETHS + ELEMENTALS
+Ihys sees Spark without freedom as meaningless.
+He grants aboleths autonomy.
+He also frees elemental lords/genies/greater spirits.
+Result: Elemental Wars.
+
+14) ELEMENTAL WARS → PLANAR SEAMS
+Elementals become political: conquest, vendetta, ideology of flame/stone/wind/wave.
+Seams form: thin places where planar rules fray.
+[GM TOOL ⚙️] Seams explain “dungeon logic” and weird zones before any meteor.
+
+15) ASMODEUS’S COUP
+Asmodeus concludes: freedom creates war and death.
+He attacks Ihys suddenly and wins.
+[CANON ✅] Ihys is weakened by distributing energy via emancipation.
+
+16) IHYS’S LAST SCAR: ABOLETH BLESSING
+[CANON ✅] Ihys’ residue becomes aboleth blessing:
+- Grey anima (resists ideological coloring)
+- Divine obscurity (harder for gods to perceive directly)
+This makes aboleths a systemic anomaly in later pantheon politics.
+
+17) SECOND DISTRIBUTION OF ROLES
+Pharasma resists Asmodean monopoly by distributing roles among emerging powers.
+[CANON ✅] Desna begins as dreams/ether; not required to be “good” immediately.
+[CANON ✅] Torag may be elevated hero rather than primordial.
+
+====================================================================
+PART IV — ROVAGUG AND DRAGONS (DETAILED)
+====================================================================
+
+18) ROVAGUG — CREATOR BEFORE DESTROYER
+[CANON ✅] Rovagug begins as a creator of Material form.
+He crafts monstrous lineages and ecological extremes.
+Most “monsters” are not born evil; they are born hungry/territorial/powerful.
+
+19) SHELYN + DOU-BRAL — DUAL CREATIVE TOOLS
+[CANON ✅] Created by Rovagug:
+- Shelyn: harmony of form, beauty as discipline, culture as stabilizer.
+- Dou-Bral: depth and shadow, inner truth, necessary darkness.
+[OPTION 🧩] Later fall into Zon-Kuthon can be framed as tragedy of autonomy exploited by Entropy.
+
+20) DRAGONS AS APEX ECOLOGY → POLITICS
+Dragons dominate and hunt new peoples; gods object.
+To prevent open divine war, compromise is forced.
+
+21) APSU AND THE PACT
+Apsu is elevated to guide dragons.
+[CANON ✅] Pact: violence only when necessary; annihilation forbidden (on paper).
+This preserves the world long enough for empires to rise—while seeding resentment.
+
+22) DAHAK AND THANAT
+Dahak rejects restraint; fears extinction; Thanat offers inevitability narrative.
+[CANON ✅] Dahak is catastrophe-level; lieutenants killable.
+
+23) WHY ROVAGUG TURNS
+[CANON ✅] Not innate evil: creator resentment.
+- creations constrained
+- dragons bound by pact
+- seam maintenance assigned as janitor duty
+- later: Gozreh elevates nature beyond his influence
+Rovagug begins neglecting seams—catastrophes multiply—Entropy benefits.
+
+====================================================================
+PART V — THE SUPERCONTINENT AGE: CIVILIZATIONS AND PRE-WAR TENSION
+====================================================================
+
+24) DWARVES — HOLDS, PRECEDENT, DEBT
+Dwarves are slow to decide because survival underground requires stability.
+They keep a Record of Debts/Grudges: legal memory outlives generations.
+Outsiders don’t “visit”; they negotiate entry as treaty.
+
+UNDERWORLD WAR (CANON CORE):
+Humans adapt quickly; with aboleth mentorship they break dwarven tactics.
+To survive, dwarves accept Asmodeus’s bargain:
+elite reforged into proto-duergar.
+Duergar later exiled → cultural wound.
+
+Dwarven internal drivers before Earthfall:
+- fear of repeating the bargain
+- obsession with closing seams
+- rage at elves for pact-refusal
+- dread that surface wars will spill underground
+
+25) ELVES — AUTHORITARIAN STEWARDSHIP
+Elves are tied to Sarenrae’s creation ideal (light, growth, cultivation),
+but culturally become authoritarian caretakers:
+“We know better; obey for your own good.”
+
+They enforce authority via status trials and shame politics.
+To speak without mockery you must earn it.
+
+ELF–DWARF CONFLICT (CANON):
+When dwarves reach surface and ask refuge, elves refuse due to ancient pact.
+Not cruelty—obedience. That fuels dwarven bitterness.
+
+26) HUMANS — AZLANT RISE AND FALL
+Humans adapt and expand; they become a fuel for “bottom-up gods.”
+Azlant forms as first great empire.
+They push back dragon dominance; pact limits dragons’ response.
+
+27) EGG POLITICS AND CAPITAL BURNING
+Egg of Apsu’s line becomes a political symbol and a dangerous misunderstanding.
+Dahak interprets events as assault on dragon future (or is convinced by Thanat).
+He burns Azlant capital. (Avoid phrasing “victory over a clutch”; it’s tragedy.)
+
+28) POST-AZLANT FRACTURE: TWO HUMAN POWERS
+[CANON ✅] Two durable blocs:
+A) ASH ALLIANCE
+- confederation of provinces, legions, ports
+- pragmatic anti-single-point-of-failure governance
+- proto-Aroden hero culture on borders
+B) THASSILON (UNDER ASMODEUS)
+- magocracy of seals, permits, contracts
+- arcane bureaucracy: power = authorization
+
+29) BARBARIANS AND DRAGON-CAPTIVES
+Outside the two blocs:
+- tribal peoples who distrust gods and cities
+- dragon-captive communities (forced labor, breeding stock, tribute villages)
+These groups become key recruitment pools for future war gods and spirits.
+
+====================================================================
+PART VI — GOZREH AND THE GREAT WAR IGNITION
+====================================================================
+
+30) WHY PHARASMA CREATES GOZREH
+[CANON ✅] Pharasma is tired of holding everything alone.
+Gozreh is a unified nature spirit given a “seat” as regulator.
+Nature becomes actor, not background.
+
+31) AFTER GOZREH: NODES AND STRONG SPIRITS
+[CANON ✅] Nodes awaken—places where anima condenses and responds.
+Forests “decide.” Rivers “remember.” Storms punish and bargain.
+Strong spirits form fully and consciously only now, at scale.
+
+[GM TOOL ⚙️] Show Gozreh by environment behavior, not divine cameos:
+a storm that targets contract-breakers; a drought that ends when a debt is paid.
+
+32) DIVINE REACTIONS (CANON-ALIGNED)
+- Rovagug: rage; sabotages seams more openly.
+- Asmodeus: declares uncontrolled nature unacceptable; begins industrial doctrine (deforestation, codification).
+- Sarenrae: upset that nature is cruel even near her children; resists Gozreh’s harshness, protects communities.
+- Torag: grief and fury over duergar tragedy; opens holds, mobilizes clans upward.
+- Abadar: attempts to standardize contracts with nature (measures, rights of water, trade laws).
+- Aboleths: retreat further; some wish to intervene; secrecy increases.
+- Dragons: crisis worsens; Dahak sees opportunity; Apsu tries to limit slaughter.
+- Thanat: uses scarcity, storms, and fear to push nations into war.
+
+33) THE GREAT WAR BEGINNING (STATE OF THE WORLD)
+At the moment war ignites:
+- Humans already divided (Ash Alliance vs Thassilon).
+- Dwarves emerge as a third hard power from below.
+- Elves push “stewardship” policies and provoke resistance.
+- Aboleths withdraw; ocean powers simmer.
+- Nature itself now punishes and bargains.
+The system is at boiling point.
+
+END OF VOLUME I
+
+
+
+====================================================================
+APPENDIX A — CHRONOLOGY BY ERAS (DETAILED)
+====================================================================
+
+ERA 0 — PRE-FORMATION PRESSURE
+• Elemental Wars destabilize proto-planes.
+• First major seams recorded by Jhergal’s archivists.
+• Aboleths begin constructing deep-water archive vaults.
+
+ERA I — ROVAGUG’S GOLDEN ECOLOGY
+• Dragons establish territorial dominion across supercontinent.
+• Proto-elven groves formed under Sarenrae influence.
+• Early dwarven holds sealed beneath tectonic fault-lines.
+• Aboleths mentor early human coastal settlements.
+
+ERA II — THE DWARVEN UNDERWORLD WAR
+• Humans learn siege adaptation from aboleth tutors.
+• Dwarven shield tactics fail against rotating human formations.
+• Decades-long debate before Asmodean pact.
+• Proto-duergar reforged; survival achieved; shame begins.
+• Droskar’s Speech recorded in fragmentary stone tablets.
+
+ERA III — ELVEN SURFACE CONSOLIDATION
+• Pact of Surface Division codified.
+• Elven Houses formalize Stewardship Doctrine.
+• First recorded instance of public shame-trial as political weapon.
+• Dwarven embassy refused refuge — diplomatic collapse.
+
+ERA IV — AZLANT ASCENDANT
+• Dragon retreat due to Pact enforcement.
+• Rapid human urbanization.
+• Early proto-Aroden military cults on frontier.
+• Aboleth-human knowledge exchange at peak intensity.
+
+ERA V — THE BURNING OF THE CAPITAL
+• Political misuse of dragon egg legacy.
+• Dahak personally intervenes.
+• Capital destroyed in catastrophic firestorm.
+• Human fragmentation begins immediately.
+
+ERA VI — FRACTURE AND HARDENING
+• Ash Alliance forms as anti-centralization model.
+• Thassilon institutionalizes arcane contracts.
+• Dwarves seal deeper holds and restrict all foreign entry.
+• Elven Houses split into Purists and Reformists.
+
+ERA VII — THE GOZREH THRESHOLD
+• Climate irregularities increase.
+• Druidic circles emerge spontaneously.
+• Pharasma initiates unification ritual of nature flows.
+• Gozreh attains divine coherence.
+
+ERA VIII — PRE-WAR BOILING POINT
+• Nodes awaken; storms display intentionality.
+• Asmodeus codifies natural resource law.
+• Rovagug openly neglects seam duties.
+• Orc/hobgoblin/goblin manifestations near battlefronts.
+• Thanat propaganda spreads “inevitability” doctrine.
+
+====================================================================
+APPENDIX B — ECONOMY OF ANIMA BETWEEN FRONTS
+====================================================================
+
+War transfers anima upward (Gorum, Dahak).
+Mercy transfers anima to Sarenrae.
+Contracts transfer anima to Asmodeus and Abadar.
+Craft transfers anima to Torag.
+Revenge transfers anima to Calistria.
+Fear transfers anima to Lamashtu and Dahak.
+Stability transfers anima to Pharasma.
+
+When one front grows too dominant, anima imbalance destabilizes world physics.
+This explains natural disasters coinciding with ideological shifts.
+
+====================================================================
+APPENDIX C — PRE-EARTHFALL POLITICAL MAP (TEXTUAL)
+====================================================================
+
+North: Elven Stewardship Realms (forest-city networks).
+Central Highlands: Ash Alliance fortified provinces.
+Eastern Arcane Corridor: Thassilon rune-states.
+Deep Underrealm: Dwarven Holds networked via magma rivers.
+Western Coasts: Azarketi diaspora memory reefs.
+Mountain Spines: Kashrishi seam stations.
+Jungle Farlands: Goloma hidden enclaves.
+Subterranean Wilds: Early Deep Hive clusters (dormant).
+
+====================================================================
+END OF EXPANDED APPENDIX — VOLUME I
